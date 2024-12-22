@@ -126,7 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Durgesh Sharma - [sharmajdurgesh04@gmail.com]
 
-Project Link: [https://github.com/winter000boy/Encryption-Decryption]
+Project Link: [https://github.com/winter000boy/Encryption-Decryption.git]
 
 ## 🌟 Acknowledgments
 
